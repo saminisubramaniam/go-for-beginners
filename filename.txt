@@ -1,0 +1,3 @@
+Hello from Go. 
+Writing to file.
+Working fine.
